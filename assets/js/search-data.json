@@ -2,7 +2,7 @@
   
     
         "post0": {
-            "title": "Machine Learning Challenges",
+            "title": "Google Cloud Vertex AI Pipeline",
             "content": "Google Cloud Vertex AI Pipeline . I would like to share to machine learning pipeline using Google Vertex AI. . Contains below components in the pipeline . Data Ingestion | Data Preprocessing | Model Training | Model Evaluation | Conditional Deployment based on model metrics | Inference | GitHub: https://github.com/nthangarajan/MLPipelineByVertexAI/blob/main/mlpipeline_Sep2021.ipynb .",
             "url": "https://nthangarajan.github.io/aimlblog/gcp/mlops/vertexai/2022/02/02/vertexai_pipeline.html",
             "relUrl": "/gcp/mlops/vertexai/2022/02/02/vertexai_pipeline.html",
