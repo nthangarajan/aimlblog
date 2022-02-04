@@ -7,9 +7,6 @@ description: "Machine learning operations (MLOps) is the practice of applying De
 categories: [GCP, MLOps, VertexAI]
 comments: true
 ---
-
-# Google Cloud Vertex AI Pipeline
-
 I would like to share to machine learning pipeline using Google Vertex AI.
 
 Contains below components in the pipeline
@@ -20,8 +17,10 @@ Contains below components in the pipeline
 5. Conditional Deployment based on model metrics
 6. Inference
 
-GitHub:
-https://github.com/nthangarajan/MLPipelineByVertexAI/blob/main/mlpipeline_Sep2021.ipynb
+![Image] ({{site.baseurl}}/images/2022Feb02_MLChallenges.png)
+
+[Source Code in Github](https://github.com/nthangarajan/MLPipelineByVertexAI/blob/main/mlpipeline_Sep2021.ipynb)
+
 
 
 
