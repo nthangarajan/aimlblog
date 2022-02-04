@@ -1,12 +1,15 @@
 ---
 toc: true
 layout: post
+image: ![]({{site.baseurl}}/images/2022Feb01_MLChallenges.png)
+title: "Machine Learning Challenges"
 description: "Machine Learning Challenges"
 categories: [Machine Learning, MLOps]
-title: "Machine Learning Challenges"
-image: ![]({{site.baseurl}}/images/022Feb01_MLChallenges.png)
 comments: true
 ---
+
+![]({{site.baseurl}}/images/2022Feb01_MLChallenges.png)
+
 1. Cross-team alignment
 2. Standard, repeatable process
 3. Resources
@@ -17,7 +20,7 @@ comments: true
 8. Portability
 
 Solution is MLOps
-![]({{site.baseurl}}/images/2022Feb01_MLChallenges.png)
+
 
 
 
