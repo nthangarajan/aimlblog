@@ -17,7 +17,7 @@ comments: true
 8. Portability
 
 Solution is MLOps
-
+![]({{site.baseurl}}/images/2022Feb01_MLChallenges.png)
 
 
 

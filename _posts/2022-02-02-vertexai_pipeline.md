@@ -17,7 +17,7 @@ Contains below components in the pipeline
 5. Conditional Deployment based on model metrics
 6. Inference
 
-![]({{site.baseurl}}/images/2022Feb01_MLChallenges.png)
+![]({{site.baseurl}}/images/2022Feb02_VertexAI.png)
 
 [Source Code in Github](https://github.com/nthangarajan/MLPipelineByVertexAI/blob/main/mlpipeline_Sep2021.ipynb)
 
