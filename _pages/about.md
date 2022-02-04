@@ -4,12 +4,12 @@ title: About Me
 permalink: /about/
 ---
 
-# Thangarajan Nagarethinam
-# AI & ML Solutions Architect
+## Thangarajan Nagarethinam
+## AI & ML Solutions Architect
 email : nthangarajan@gmail.com
 https://www.linkedin.com/in/nthangarajan/
 
-## KEY SKILLS
+### KEY SKILLS
 
 - Cloud Computing
 - Data Engineering
@@ -21,7 +21,7 @@ https://www.linkedin.com/in/nthangarajan/
 - Computer Vision
 - ML Ops
 
-## TOOLS & FRAMEWORKS
+### TOOLS & FRAMEWORKS
 - **Machine Learning Frameworks**
 Scikit-Learn, TensorFlow, Keras, KubeFlow
 - **Cloud Computing Services**
@@ -35,7 +35,7 @@ DB2, SQL Server, MongoDB
 - **Others**
 Data Stage, Hadoop, Spark
 
-## CERTIFICATIONS
+### CERTIFICATIONS
 
 - **Google Cloud Certified Professional
 Machine Learning Engineer**
@@ -50,11 +50,11 @@ Google
 - **Tableau Desktop Specialist**
 Tableau Software
 
-## LANGUAGES
+### LANGUAGES
 - **English**
 - **Tamil**
 
-## EDUCATION
+### EDUCATION
 
 - **Specialist Diploma in AI Solutions
 Development**
