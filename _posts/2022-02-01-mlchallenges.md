@@ -4,7 +4,7 @@ layout: post
 description: "Machine Learning Challenges"
 categories: [Machine Learning, MLOps]
 title: "Machine Learning Challenges"
-image: ![]({{site.baseurl}}/images/2022Feb01_MLChallenges.png)
+image: ![]({{site.baseurl}}/images/022Feb01_MLChallenges.png)
 comments: true
 ---
 1. Cross-team alignment
