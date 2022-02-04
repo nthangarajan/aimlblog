@@ -2,8 +2,8 @@
 toc: true
 layout: post
 image: images/2022Feb02_MLChallenges.png
-title: "Machine Learning Challenges"
-description: "Google Cloud Vertex AI Pipeline"
+title: "Google Cloud Vertex AI Pipeline"
+description: "Machine learning operations (MLOps) is the practice of applying DevOps strategies to machine learning (ML) systems. DevOps strategies let you efficiently build and release code changes, and monitor systems to ensure you meet your reliability goals. MLOps extends this practice to help you reduce the amount of time that it takes to reliably go from data ingestion to deploying your model in production, in a way that lets you monitor and understand your ML system"
 categories: [GCP, MLOps, VertexAI]
 comments: true
 ---
