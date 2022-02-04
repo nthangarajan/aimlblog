@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Google Cloud Vertex AI Pipeline",
-            "content": "Google Cloud Vertex AI Pipeline . I would like to share to machine learning pipeline using Google Vertex AI. . Contains below components in the pipeline . Data Ingestion | Data Preprocessing | Model Training | Model Evaluation | Conditional Deployment based on model metrics | Inference | GitHub: https://github.com/nthangarajan/MLPipelineByVertexAI/blob/main/mlpipeline_Sep2021.ipynb .",
+            "content": "I would like to share to machine learning pipeline using Google Vertex AI. . Contains below components in the pipeline . Data Ingestion | Data Preprocessing | Model Training | Model Evaluation | Conditional Deployment based on model metrics | Inference | ![Image] (/aimlblog/images/2022Feb02_MLChallenges.png) . Source Code in Github .",
             "url": "https://nthangarajan.github.io/aimlblog/gcp/mlops/vertexai/2022/02/02/vertexai_pipeline.html",
             "relUrl": "/gcp/mlops/vertexai/2022/02/02/vertexai_pipeline.html",
             "date": " • Feb 2, 2022"
@@ -14,7 +14,7 @@
     
         ,"post1": {
             "title": "Machine Learning Challenges",
-            "content": "Machine Learning Challenges . Cross-team alignment | Standard, repeatable process | Resources | Auditability | Explainability | Model Monitoring | Scalability | Portability | Solution is MLOps .",
+            "content": "Cross-team alignment | Standard, repeatable process | Resources | Auditability | Explainability | Model Monitoring | Scalability | Portability | Solution is MLOps .",
             "url": "https://nthangarajan.github.io/aimlblog/machine%20learning/mlops/2022/02/01/mlchallenges.html",
             "relUrl": "/machine%20learning/mlops/2022/02/01/mlchallenges.html",
             "date": " • Feb 1, 2022"
