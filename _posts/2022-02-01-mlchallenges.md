@@ -1,9 +1,9 @@
 ---
 toc: true
 layout: post
-image: ![]({{site.baseurl}}/images/2022Feb01_MLChallenges.png)
+image: images/2022Feb01_MLChallenges.png
 title: "Machine Learning Challenges"
-description: "Machine Learning Challenges"
+description: "Listed ml challenges"
 categories: [Machine Learning, MLOps]
 comments: true
 ---
