@@ -20,11 +20,3 @@ comments: true
 8. Portability
 
 Solution is MLOps
-
-
-
-
-
-
-
-
